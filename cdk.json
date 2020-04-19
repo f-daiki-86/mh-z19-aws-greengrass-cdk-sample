@@ -1,0 +1,9 @@
+{
+  "app": "npx ts-node bin/app.ts",
+  "context": {
+    "greengrassCoreThingName": "[Greengrass CoreのThingに付与するName(任意)]",
+    "grenngrassGroupName": "[Greengrass Group名(任意)]",
+    "greengrassCoreCertArn": "[Greengrass Core用 クライアント証明書のARN]",
+    "esSourceIp": "[Kibanaにアクセスを許可するIPアドレスレンジ]"
+  }
+}
